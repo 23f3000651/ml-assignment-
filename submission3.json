@@ -1,0 +1,7 @@
+{
+  "prompt": "your full prompt here",
+  "model": "Flux Pro 1.1",
+  "dataset_name": "UNICEF Hunger Report 2025",
+  "dataset_url": "https://data.unicef.org/...",
+  "insight": "Global food waste could feed hungry population twice over"
+}
