@@ -1,0 +1,6 @@
+{
+  "prompt": "A highly detailed, photorealistic close-up of a chameleon perfectly camouflaged against one specific tropical leaf, matching every vein, spot, and color flaw exactly. Nearby leaves in soft breeze reveal slight variations in shape and hue, making the chameleon's rigid pose completely mismatched and exposed. Natural forest light, sharp focus, no text, no labels, no diagrams, cinematic depth of field --ar 16:9 --v 6.1 --q 2",
+  "model": "Midjourney v6.1",
+  "concept": "overfitting",
+  "metaphor": "Chameleon mimics one leaf perfectly (training data) but fails to adapt to similar nearby leaves (test data)."
+}
