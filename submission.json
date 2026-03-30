@@ -1,0 +1,6 @@
+{
+  "prompt": "A dimly lit master glovemaker's workshop with warm amber light. At the center, a craftsman's worn wooden workbench. One perfectly hand-stitched leather glove sits on a single specific hand, fitting with uncanny precision — every knuckle crease, every scar, every vein contoured flawlessly into the leather. Beside it on the table, four other hands of different sizes and shapes attempt to wear identical copies of the same glove — each fitting grotesquely wrong, fingers bent at impossible angles, leather pulling and bunching. No text, no labels, no diagrams.",
+  "model": "Perplexity AI Image Generator (Gemini-based)",
+  "concept": "overfitting",
+  "metaphor": "A glove molded to one hand's every scar fits that hand perfectly but fails grotesquely on all others, mirroring how an overfitted model fails on unseen data."
+}
