@@ -1,6 +1,6 @@
 {
-  "prompt": "A dimly lit master glovemaker's workshop with warm amber light. At the center, a craftsman's worn wooden workbench. One perfectly hand-stitched leather glove sits on a single specific hand, fitting with uncanny precision — every knuckle crease, every scar, every vein contoured flawlessly into the leather. Beside it on the table, four other hands of different sizes and shapes attempt to wear identical copies of the same glove — each fitting grotesquely wrong, fingers bent at impossible angles, leather pulling and bunching, one glove splitting at the seam. The contrast between the one perfect fit and the four failed fits is the visual focus. Cinematic photorealistic photography, shallow depth of field, dramatic chiaroscuro lighting, ultra high resolution 4K, no text, no labels, no diagrams, no floating elements.",
-  "model": "Perplexity AI Image Generator",
+  "prompt": "A dimly lit master glovemaker's workshop, warm amber candlelight. A craftsman's worn wooden workbench dominates the center. One perfectly hand-stitched leather glove fits a single hand with uncanny precision — every knuckle crease, scar, and vein contoured flawlessly into the leather. On the table beside it, four other hands of different shapes attempt to wear identical gloves — each failing grotesquely, fingers bent wrong, leather pulling and splitting. Dramatic chiaroscuro lighting, ultra sharp, photorealistic, cinematic 4K photograph, wide composition. No text, no labels, no diagrams anywhere in the image.",
+  "model": "Gemini 2.0 Flash",
   "concept": "overfitting",
-  "metaphor": "A glove molded to one hand's every scar fits that hand perfectly but fails grotesquely on all others, mirroring how an overfitted model memorizes training data but fails on unseen data."
+  "metaphor": "Glove perfectly molded to one hand's scars fits only that hand; fails on all others - exactly like overfitting memorizes training data but fails on new data."
 }
